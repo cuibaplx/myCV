@@ -1,4 +1,4 @@
-"# myCV" 
+ 
 After clone complete, you should use command "pip install -r path/requirements.txt" to install libary for project.
 
 Then, use command "cd mysite" and "py manage.py runserver" to run server. (Window env)
